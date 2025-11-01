@@ -2,7 +2,6 @@
 
 ![Made with C++](https://img.shields.io/badge/Made%20with-C++-blue?logo=c%2B%2B&style=flat-square)
 ![Framework](https://img.shields.io/badge/Framework-Standard%20Library-brightgreen?style=flat-square)
-![Build System](https://img.shields.io/badge/Build-CMake-orange?style=flat-square)
 ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=flat-square)
 ![License MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
