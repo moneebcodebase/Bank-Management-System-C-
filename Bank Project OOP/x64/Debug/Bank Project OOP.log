@@ -1,0 +1,39 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Bank Project OOP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsString.h(38,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsString.h(189,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsString.h(214,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsString.h(351,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsString.h(402,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsUser.h(156,13): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsUser.h(53,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsBankClient.h(360,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsBankClient.h(20,9):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsBankClient.h(66,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsBankClient.h(333,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsBankClient.h(342,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsBankClient.h(284,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\c++ Projects\Bank Project (C++)\Bank Project OOP\clsUser.h(286,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank Project OOP.vcxproj -> D:\c++ Projects\Bank Project (C++)\x64\Debug\Bank Project.exe
